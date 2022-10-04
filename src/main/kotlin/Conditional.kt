@@ -6,7 +6,7 @@ fun main () {
         println("He Will Jailed")
 
     } else if (isFalse){
-        println("Something wrong with this country")
+        println("Something wrong with thi country")
     } else {
         println("...")
     }
